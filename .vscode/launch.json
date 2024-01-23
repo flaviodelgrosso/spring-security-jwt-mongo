@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ReactBlueprintApplication<react-blueprint>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "app.ReactBlueprintApplication",
+      "projectName": "react-blueprint",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ReactBlueprintApplication<reactBlueprint>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "app.ReactBlueprintApplication",
+      "projectName": "reactBlueprint",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-ReactBlueprintApplication<blueprint>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "app.ReactBlueprintApplication",
+      "projectName": "blueprint",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
